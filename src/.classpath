@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="D:/Twitter-LDA-master/Twitter-LDA-master/lib/args4j-2.0.6.jar"/>
+	<classpathentry kind="lib" path="D:/Twitter-LDA-master/Twitter-LDA-master/lib/jargs.jar"/>
+	<classpathentry kind="lib" path="D:/Twitter-LDA-master/Twitter-LDA-master/lib/TwitterTokenizer.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
